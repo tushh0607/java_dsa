@@ -1,5 +1,5 @@
 //longest  common prefix 
-public class LongestCommonPrefixPractice {
+public class q17 {
 
     // Implement your logic here
     public static String longestCommonPrefix(String[] strs) {
