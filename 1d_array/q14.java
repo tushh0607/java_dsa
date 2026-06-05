@@ -9,7 +9,7 @@ public class q14 {
 
     }
     public static void maxprod(int[] arr){
-        int  maxprod=0;
+        int  maxprod=Integer.MIN_VALUE;;
         int n=arr.length;
         for(int i=0;i<n;i++){
             int prod=1;
